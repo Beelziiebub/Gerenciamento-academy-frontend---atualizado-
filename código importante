@@ -1,0 +1,12 @@
+ <input type="text" id="nome" placeholder="Nome" required>
+            <input type="text" id="sobrenome" placeholder="Sobrenome" required>
+            <input type="text" id="username" placeholder="Nome de Usuário" required>
+            <input type="email" id="registerEmail" placeholder="Email" required>
+            <div>
+                <input type="password" id="registerPassword" placeholder="Senha" required>
+                <button type="button" id="toggleRegisterPassword">Mostrar</button>
+          
+            <div>
+                <input type="password" id="confirmPassword" placeholder="Confirmar Senha" required>
+                <button type="button" id="toggleConfirmPassword">Mostrar</button>
+            </div>
